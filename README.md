@@ -21,7 +21,7 @@ Google Sheet: https://docs.google.com/spreadsheets/d/1rJxL3ZLt3Qi_h8fhJMFYaiWlUS
 3. แท็บ `Plan` เดิมเป็นแผนเก่า ไม่ใช้
 4. อัปเดต `plan.md` และ `index.html` ให้ตรงกันทุกครั้ง
 
-เวอร์ชันปัจจุบันสร้างจากแท็บ `Plan (ใหม่)`
+เวอร์ชันปัจจุบันสร้างจากแท็บ `Plan (new) - 29.10.2026`
 
 ## เปิดดู
 
