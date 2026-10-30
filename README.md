@@ -25,7 +25,7 @@ URL ของแต่ละทริปคือ `https://st-nann.github.io/tra
 
 ## หน้าเว็บมีอะไร
 
-- ข้อมูลจากแท็บ `Plan (new) - dd.mm.yyyy` ของชีต
+- ข้อมูลจากแท็บ `Plan (new) - dd.mm.yyyy` ของชีต และแสดงวันที่ "อัปเดตแผนล่าสุด" ที่ส่วนหัว
 - ไทม์ไลน์ Day 1 / Day 2 / Day 3 พร้อมปุ่มสลับวันค้างด้านบน
 - เวลาเปิด-ปิด เมนูแนะนำ เบอร์โทร (กดโทรได้)
 - ลิงก์ **Reference / Review** (TikTok, Instagram, Facebook, Lemon8)
